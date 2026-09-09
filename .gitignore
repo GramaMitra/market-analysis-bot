@@ -1,0 +1,21 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# runtime artifacts
+logs/
+*.log
+audit_report.txt
+*.sqlite3*
+
+# generated research data
+research_out/
+
+# editor
+.vscode/

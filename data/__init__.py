@@ -1,0 +1,1 @@
+"""Data layer: MetaTrader 5 client and data processing."""

@@ -1,0 +1,1 @@
+"""Reporting layer: deterministic formatter and (later) optional LLM reporter."""

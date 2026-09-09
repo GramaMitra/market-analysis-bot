@@ -1,0 +1,1 @@
+"""Background monitoring: scheduled reports and regime-change alerts."""
